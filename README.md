@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adejsam&theme=gruvbox&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adejsam&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
