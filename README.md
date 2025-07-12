@@ -1,16 +1,21 @@
 <h1 align="center">👋 Hey there, I'm Samuel Adejumobi</h1>
-<h3 align="center">I'm a **Frontend Developer** passionate about building clean, scalable, and user-friendly web applications using tools like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. I love turning ideas into interfaces that are fast, accessible, and genuinely helpful.</h3>
 
+<h3 align="center">
+Frontend Developer | React, Next.js, Tailwind | Learning Data Science @ WQU
+</h3>
 
-- 🌱 I’m currently learning **Data Science**
+<p align="center">
+I'm passionate about building clean, scalable, and user-friendly web applications using tools like <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong>.  
+I enjoy turning ideas into interfaces that are fast, accessible, and genuinely helpful.
+</p>
 
-- 💬 Ask me about **React and Next**
+---
 
-- 📫 How to reach me **adejusamuel@gmail.com**
-  
-- 🔧 I love code that looks good *and* works well.
-  
-- 🌍 Always learning. Always building. Always growing.
+- 🌱 Currently learning **Data Science** at **WorldQuant University**
+- 💬 Ask me about **React** and **Next.js**
+- 📫 Reach me at **adejusamuel@gmail.com**
+- 🔧 I love code that looks good *and* works well
+- 🌍 Always learning. Always building. Always growing
 
 ---
 
@@ -39,6 +44,7 @@
 ---
 
 ### 😄 Let’s Connect
+
 - [LinkedIn](https://www.linkedin.com/in/ayotomiwa-adejumobi-60220b280)
 - [GitHub](https://github.com/Adejsam)
 
