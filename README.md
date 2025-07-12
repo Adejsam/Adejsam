@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Adejumobi</h1>
+<h1 align="center">👋 Hey there, I'm Samuel Adejumobi</h1>
 <h3 align="center">I'm a **Frontend Developer** passionate about building clean, scalable, and user-friendly web applications using tools like **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. I love turning ideas into interfaces that are fast, accessible, and genuinely helpful.</h3>
 
 
@@ -7,14 +7,10 @@
 - 💬 Ask me about **React and Next**
 
 - 📫 How to reach me **adejusamuel@gmail.com**
-
-# 👋 Hey there, I'm Ayotomiwa Adejumobi!
-
-I'm a **Frontend Developer** passionate about building fast, clean, and scalable user experiences with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.  
-Currently learning the magic of **Data Science** at **WorldQuant University** — bridging the world of intuitive design and intelligent systems.  
-
-🔧 I love code that looks good *and* works well.  
-🌍 Always learning. Always building. Always growing.
+  
+- 🔧 I love code that looks good *and* works well.
+  
+- 🌍 Always learning. Always building. Always growing.
 
 ---
 
