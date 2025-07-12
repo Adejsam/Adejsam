@@ -7,3 +7,43 @@
 - 💬 Ask me about **React and Next**
 
 - 📫 How to reach me **adejusamuel@gmail.com**
+
+# 👋 Hey there, I'm Ayotomiwa Adejumobi!
+
+I'm a **Frontend Developer** passionate about building fast, clean, and scalable user experiences with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.  
+Currently learning the magic of **Data Science** at **WorldQuant University** — bridging the world of intuitive design and intelligent systems.  
+
+🔧 I love code that looks good *and* works well.  
+🌍 Always learning. Always building. Always growing.
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adejsam&theme=gruvbox&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![Ayotomiwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adejsam&show_icons=true&theme=radical&count_private=true&hide_title=false)
+
+---
+
+## 💻 Top Skills
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adejsam&layout=compact&theme=radical&langs_count=6)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adejsam&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 😄 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/ayotomiwa-adejumobi-60220b280)
+- [GitHub](https://github.com/Adejsam)
+
+> “Bridging Design, Development & Data.” 💡
