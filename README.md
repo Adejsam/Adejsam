@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Samuel Adejumobi</h1>
 
 <h3 align="center">
-Frontend Developer | React, Next.js, Tailwind | Learning Data Science @ WQU
+Frontend Developer | React, Next.js, Tailwind | Learning Data Science 
 </h3>
 
 <p align="center">
